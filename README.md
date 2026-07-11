@@ -31,4 +31,4 @@ References: Important references that were used in this project.
 - Labels: Raw sentiment strings are mapped into three categories: "Awful", "Neutral", and "Great."
 Source: https://github.com/vxuv/ratemyprofessor-dataset Real RMP reviews, loaded directly from GitHub in the notebook.
 Preprocessing: The 10,000 most recent reviews are used after removing place holder comments and comments under 20 characters.
-Labels: Raw sentiment strings are mapped into three categories: "Awful", "Neutral", and "Great."****
+Labels: Raw sentiment strings are mapped into three categories: "Awful", "Neutral", and "Great."
